@@ -20,6 +20,7 @@ This project analyzes healthcare data including patient demographics, billing, a
 ## 📂 Files Included
 - healthcare_dataset.csv
 - Healthcare Dashboard.pbix
+- [Dashboard](images/dashboard.png)
 
 ## 🚀 Author
 Sachin Nikkam
