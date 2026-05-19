@@ -14,6 +14,10 @@ This project analyzes healthcare data including patient demographics, billing, a
 - Age Group Distribution
 - Admission Type Trends
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
 ## 📂 Files Included
 - healthcare_dataset.csv
 - Healthcare Dashboard.pbix
